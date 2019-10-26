@@ -4,7 +4,7 @@ This Python notebook extracts the historic phrase occurrence of a search term in
 
 ## Example
 
-This yields plots which look like this:
+This yields plots which look like the following plot. This is an example of Stochastic Gradient Descent (SGD) over time:
 
 ![sdg_example](assets/SGD.png "Example of Stochastic Gradient Descent (SGD) over time")
 
